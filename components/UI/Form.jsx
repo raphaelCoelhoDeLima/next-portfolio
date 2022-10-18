@@ -1,5 +1,5 @@
-import React from "react";
-import classes from "../../styles/form.module.css";
+import React from "react"
+import classes from "../../styles/form.module.css"
 
 const Form = () => {
   const submitHandler = () => {
@@ -24,4 +24,4 @@ const Form = () => {
   );
 };
 
-export default Form;
+export default Form

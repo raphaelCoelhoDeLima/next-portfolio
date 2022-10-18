@@ -28,29 +28,29 @@ const NAV__LINK = [
 ];
 
 const Header = () => {
-  const headerRef = useRef(null)
+  const headerRef = useRef(null);
 
-  const menuRef = useRef(null)
+  const menuRef = useRef(null);
 
   const headerFunc = () => {
     if (
       document.body.scrollTop > 80 ||
       document.documentElement.scrollTop > 80
     ) {
-      headerRef.current.classList.add(`${classes.header__shrink}`)
+      headerRef.current.classList.add(`${classes.header__shrink}`);
     } else {
-      headerRef.current.classList.remove(`${classes.header__shrink}`)
+      headerRef.current.classList.remove(`${classes.header__shrink}`);
     }
   };
 
   useEffect(() => {
-    window.addEventListener("scroll", headerFunc)
+    window.addEventListener("scroll", headerFunc);
 
-    return () => window.removeEventListener("scroll", headerFunc)
+    return () => window.removeEventListener("scroll", headerFunc);
   }, []);
 
   const toggleMenu = () =>
-    menuRef.current.classList.toggle(`${classes.menu__active}`)
+    menuRef.current.classList.toggle(`${classes.menu__active}`);
 
   return (
     <header className={`${classes.header}`} ref={headerRef}>
@@ -79,7 +79,7 @@ const Header = () => {
               <div className={`${classes.nav__right}`}>
                 <p className=" d-flex align-items-center gap-2 mb-0">
                   {" "}
-                  <i className="ri-phone-line"></i> <a>+14374223542</a>{" "}
+                  <i className="ri-phone-line"></i> +14374223542{" "}
                 </p>
               </div>
             </div>

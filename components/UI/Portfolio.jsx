@@ -2,12 +2,12 @@ import React, { useState, useEffect } from "react"
 import { Container, Row, Col } from "reactstrap"
 import SectionSubtitle from "./SectionSubtitle"
 import classes from "../../styles/portfolio.module.css"
-import PortfolioItem from "./PortfolioItem";
+import PortfolioItem from "./PortfolioItem"
 
 import portfolioData from "../data/portfolio"
 
 const Portfolio = () => {
-  const [filter, setFilter] = useState("Mobile App");
+  const [filter, setFilter] = useState("Mobile App")
   const [data, setData] = useState();
 
   useEffect(() => {
@@ -28,7 +28,7 @@ const Portfolio = () => {
     }
   }, [filter]);
 
-  const active = `${classes.tab__btn__active}`;
+  const active = `${classes.tab__btn__active}`
 
   return (
     <section id="portfolio">
