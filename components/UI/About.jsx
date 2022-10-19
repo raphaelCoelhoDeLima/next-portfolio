@@ -10,7 +10,7 @@ import img03 from "../../public/images/img-03.jpg";
 import img04 from "../../public/images/hero.jpg";
 
 import classes from "../../styles/about.module.css";
-
+//Sobre
 const About = () => {
   return (
     <section id="about">
