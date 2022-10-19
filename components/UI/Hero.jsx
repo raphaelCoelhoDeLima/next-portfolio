@@ -33,7 +33,7 @@ const Hero = () => {
             </div>
           </Col>
 
-          {/* ========== hero img ============= */}
+          {/* ========== hero img ============ */}
           <Col lg="6" md="6">
             <div className={`${classes.hero__img} text-end`}>
               <Image alt="hero-image" src={heroImg} width="400" height="400" />

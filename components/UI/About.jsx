@@ -24,7 +24,7 @@ const About = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
               neque asperiores temporibus quo saepe odio, esse labore libero
               obcaecati quidem explicabo blanditiis deleniti ex vitae ratione
-              ullam fugiat dicta eum sint officiis porro illum quia. Error quam
+              ullam fugiat dicta um sint officiis porro illum quia. Error quam
               cum excepturi beatae.
             </p>
 
