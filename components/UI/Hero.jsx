@@ -27,7 +27,7 @@ const Hero = () => {
                 </button>
 
                 <button className="secondary__btn">
-                  <Link href="#">Download CV</Link>
+                  <Link href="https://jessicabernardo.com.br/cv2022.pdf">Download CV</Link>
                 </button>
               </div>
             </div>
