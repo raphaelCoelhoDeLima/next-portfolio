@@ -18,9 +18,9 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m Raphael Lima</h2>
               <h5 className="mb-4">Frontend Developer</h5>
               <p>
-              I have always been attracted to solving problems and puzzles,
-              finding new ways and creating solutions, and I found the IT 
-              to be my daily and constant challenge.
+                I have always been attracted to solving problems and puzzles,
+                finding new ways and creating solutions, and I found the IT 
+                to be my daily and constant challenge.
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
