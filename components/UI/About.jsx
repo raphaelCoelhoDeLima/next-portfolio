@@ -68,7 +68,7 @@ const About = () => {
               </button>
 
               <button className="secondary__btn">
-                <Link href="https://github.com/raphaelCoelhoDeLima/next-portfolio/raw/main/components/data/Curri%CC%81culo%20Raphael%202022.pdf">Download CV</Link>
+                <Link href="#">Download CV</Link>
               </button>
             </div>
           </Col>
