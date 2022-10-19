@@ -29,7 +29,7 @@ const Services = () => {
             <h3 className="mb-0 mt-4">Better Design,</h3>
             <h3 className="mb-4">Better Experience</h3>
             <p>
-              I'm a Front-End Developer and I'm looking for growth and improvement. 
+              I&apos;m a Front-End Developer and I&aposm looking for growth and improvement. 
               I studied Javascript, CSS, HTML, React, HTTP, GitHub, among others, 
               and I continue to specialize.
             </p>
