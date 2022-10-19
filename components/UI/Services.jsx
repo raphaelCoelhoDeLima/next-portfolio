@@ -29,11 +29,9 @@ const Services = () => {
             <h3 className="mb-0 mt-4">Better Design,</h3>
             <h3 className="mb-4">Better Experience</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non amet
-              culpa nobis corporis officiis, numquam cupiditate, enim expedita
-              eveniet dolorum, aliquid nesciunt sapiente illo voluptatum!
-              Dolores fuga mollitia atque, placeat minima quibusdam accusantium!
-              Veniam, non distinctio dolorem rerum laboriosam deleniti.
+            I'm a Front-End Developer and I'm looking for growth and improvement. 
+            I studied Javascript, CSS, HTML, React, HTTP, GitHub, among others, 
+            and I continue to specialize.
             </p>
           </Col>
         </Row>
