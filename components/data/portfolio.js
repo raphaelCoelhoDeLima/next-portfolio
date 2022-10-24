@@ -28,7 +28,7 @@ const portfolio = [
 
   {
     id: "04",
-    title: "Fashion Shopping App",
+    title: "Fashion Shopping App (Coming soon)",
     img: "/images/portfolio-04.jpg",
     category: "Mobile App",
     keyword: ["Mobile", "App", "UI-UX"],
@@ -37,7 +37,7 @@ const portfolio = [
 
   {
     id: "05",
-    title: "Furniture Shopping App",
+    title: "Furniture Shopping App (Coming soon)",
     img: "/images/portfolio-05.jpg",
     category: "Mobile App",
     keyword: ["Mobile", "App", "UI-UX"],
@@ -46,7 +46,7 @@ const portfolio = [
 
   {
     id: "06",
-    title: "Travel  App",
+    title: "Travel  App (Coming soon)",
     img: "/images/portfolio-06.jpg",
     category: "Mobile App",
     keyword: ["Mobile", "App", "UI-UX"],
@@ -55,29 +55,29 @@ const portfolio = [
 
   {
     id: "07",
-    title: "Portfolio Website",
+    title: "Raphael Lima Website",
     img: "/images/portfolio-07.png",
     category: "Web Design",
     keyword: ["Web", "Web design", "UI-UX"],
-    liveUrl: "#",
+    liveUrl: "https://raphaellima.vercel.app/",
   },
 
   {
     id: "08",
-    title: "Restaurant Website",
-    img: "/images/portfolio-08.png",
+    title: "Netflix Clone",
+    img: "/images/netflix-new-logo.png",
     category: "Web Design",
     keyword: ["Web", "Web design", "UI-UX"],
-    liveUrl: "#",
+    liveUrl: "https://netflixclone-green.vercel.app/",
   },
 
   {
     id: "09",
-    title: "Agency Website",
-    img: "/images/portfolio-09.png",
+    title: "Makeup Artist Website",
+    img: "/images/jessicabmakeup.png",
     category: "Web Design",
     keyword: ["Web", "Web design", "UI-UX"],
-    liveUrl: "#",
+    liveUrl: "http://jessicabernardo.com.br/",
   },
 ];
 
